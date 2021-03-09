@@ -9,7 +9,6 @@ import android.view.View
 import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import androidx.navigation.NavController
 import com.pascal.healtnewsapp.R
 import com.pascal.healtnewsapp.model.ResponseLogin
 import com.pascal.healtnewsapp.utils.SessionManager
